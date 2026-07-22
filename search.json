@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Project Blog",
+    "section": "",
+    "text": "Here I document the problems, decisions, architecture and results behind each project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObject Extraction with Image Thresholding\n\n\n\nComputer Vision\n\nPython\n\nOpenCV\n\n\n\nUsing binary thresholding and Otsu’s method to extract objects from image backgrounds.\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Mateo Córdoba\nI am a student and work as a Data Scientist.\nI build projects related to data, machine learning, automation and artificial intelligence.\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A computer vision project that uses image thresholding and Otsu's method to separate foreground objects from image backgrounds.\n\nPython · OpenCV · Computer Vision · Jupyter Notebook\n\n\nView repository Read project blog"
+  },
+  {
+    "objectID": "projects.html#object-extraction-with-image-thresholding",
+    "href": "projects.html#object-extraction-with-image-thresholding",
+    "title": "Projects",
+    "section": "",
+    "text": "A computer vision project that uses image thresholding and Otsu's method to separate foreground objects from image backgrounds.\n\nPython · OpenCV · Computer Vision · Jupyter Notebook\n\n\nView repository Read project blog"
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html",
+    "href": "blog/posts/object-extraction-thresholding/index.html",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "",
+    "text": "This project explores how image thresholding can be used to separate an object from its background.\nThe implementation compares manual binary thresholding with Otsu’s automatic threshold selection method."
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html#project-overview",
+    "href": "blog/posts/object-extraction-thresholding/index.html#project-overview",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "",
+    "text": "This project explores how image thresholding can be used to separate an object from its background.\nThe implementation compares manual binary thresholding with Otsu’s automatic threshold selection method."
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html#the-problem",
+    "href": "blog/posts/object-extraction-thresholding/index.html#the-problem",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "The problem",
+    "text": "The problem\nAdd a description of the image-processing problem here."
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html#project-objective",
+    "href": "blog/posts/object-extraction-thresholding/index.html#project-objective",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "Project objective",
+    "text": "Project objective\nThe objective is to generate a binary mask that identifies the foreground object and use that mask to extract it from the original image."
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html#input-images",
+    "href": "blog/posts/object-extraction-thresholding/index.html#input-images",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "Input images",
+    "text": "Input images\nThe project uses images of a mango and a cup as initial examples."
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html#technical-approach",
+    "href": "blog/posts/object-extraction-thresholding/index.html#technical-approach",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "Technical approach",
+    "text": "Technical approach\nThe processing workflow includes:\n\nLoading the original image.\nConverting the image to grayscale.\nApplying binary thresholding.\nApplying Otsu’s thresholding method.\nGenerating a binary mask.\nExtracting the foreground object.\nSaving the resulting images."
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html#results",
+    "href": "blog/posts/object-extraction-thresholding/index.html#results",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "Results",
+    "text": "Results\nAdd the resulting images and explain the differences between the thresholding approaches."
+  },
+  {
+    "objectID": "blog/posts/object-extraction-thresholding/index.html#repository",
+    "href": "blog/posts/object-extraction-thresholding/index.html#repository",
+    "title": "Object Extraction with Image Thresholding",
+    "section": "Repository",
+    "text": "Repository\nView the project repository"
+  }
+]
