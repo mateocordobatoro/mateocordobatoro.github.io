@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mateo Córdoba"
+
+  navbar:
+    background: white
+
+    left:
+      - href: index.qmd
+        text: About Me
+
+      - href: projects.qmd
+        text: Projects
+
+      - href: blog/index.qmd
+        text: Project Blog
+
+    right:
+      - icon: github
+        href: https://github.com/mateocordobatoro
+        aria-label: GitHub
+
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mateocordobatoro/
+        aria-label: LinkedIn
+
+  page-footer:
+    left: "© 2026 Mateo Córdoba"
+    right:
+      - text: GitHub
+        href: https://github.com/mateocordobatoro
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/mateocordobatoro/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    code-copy: true
+
+execute:
+  freeze: auto

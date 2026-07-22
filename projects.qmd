@@ -1,0 +1,6 @@
+---
+title: "Projects"
+page-layout: full
+---
+
+{{< include generated/_projects.qmd >}}

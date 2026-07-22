@@ -1,0 +1,17 @@
+---
+title: "Project Blog"
+page-layout: full
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields:
+    - image
+    - title
+    - description
+    - date
+    - categories
+  page-size: 10
+---
+
+Here I document the problems, decisions, architecture and results behind each project.

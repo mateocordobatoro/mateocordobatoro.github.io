@@ -1,0 +1,102 @@
+:root {
+  --portfolio-text: #242424;
+  --portfolio-muted: #6b6b6b;
+  --portfolio-border: #e6e6e6;
+  --portfolio-background: #ffffff;
+  --portfolio-surface: #f7f7f5;
+}
+
+body {
+  color: var(--portfolio-text);
+  background: var(--portfolio-background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--portfolio-border);
+}
+
+.navbar-brand {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+
+#quarto-content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+p {
+  line-height: 1.7;
+}
+
+.profile-link,
+.project-link {
+  display: inline-block;
+  margin-right: 1rem;
+  color: var(--portfolio-text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--portfolio-text);
+}
+
+.profile-link:hover,
+.project-link:hover {
+  color: var(--portfolio-muted);
+}
+
+.projects-container {
+  display: grid;
+  gap: 0;
+}
+
+.project-card {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid var(--portfolio-border);
+}
+
+.project-card:first-child {
+  border-top: 1px solid var(--portfolio-border);
+}
+
+.project-card h2 {
+  margin-bottom: 1rem;
+}
+
+.quarto-listing-default .listing-item {
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--portfolio-border);
+}
+
+.quarto-title-banner {
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  #quarto-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .profile-link,
+  .project-link {
+    display: block;
+    width: fit-content;
+    margin-bottom: 0.75rem;
+  }
+}

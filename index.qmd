@@ -1,0 +1,14 @@
+---
+title: "About Me"
+page-layout: full
+---
+
+# Mateo Córdoba
+
+I am a student and work as a Data Scientist.
+
+I build projects related to data, machine learning, automation and artificial intelligence.
+
+[GitHub](https://github.com/mateocordobatoro){.profile-link}
+
+[LinkedIn](https://www.linkedin.com/in/mateocordobatoro/){.profile-link}

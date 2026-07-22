@@ -1,0 +1,49 @@
+---
+title: "Object Extraction with Image Thresholding"
+description: "Using binary thresholding and Otsu's method to extract objects from image backgrounds."
+date: "2026-07-22"
+categories:
+  - Computer Vision
+  - Python
+  - OpenCV
+execute:
+  enabled: false
+---
+
+## Project overview
+
+This project explores how image thresholding can be used to separate an object from its background.
+
+The implementation compares manual binary thresholding with Otsu's automatic threshold selection method.
+
+## The problem
+
+Add a description of the image-processing problem here.
+
+## Project objective
+
+The objective is to generate a binary mask that identifies the foreground object and use that mask to extract it from the original image.
+
+## Input images
+
+The project uses images of a mango and a cup as initial examples.
+
+## Technical approach
+
+The processing workflow includes:
+
+1. Loading the original image.
+2. Converting the image to grayscale.
+3. Applying binary thresholding.
+4. Applying Otsu's thresholding method.
+5. Generating a binary mask.
+6. Extracting the foreground object.
+7. Saving the resulting images.
+
+## Results
+
+Add the resulting images and explain the differences between the thresholding approaches.
+
+## Repository
+
+[View the project repository](https://github.com/mateocordobatoro/machine-learning-ii)

@@ -1,0 +1,20 @@
+<!--
+This file is generated automatically.
+Do not edit it manually.
+Run: python scripts/sync_projects.py
+-->
+::: {.project-card}
+
+## Object Extraction with Image Thresholding
+
+A computer vision project that uses image thresholding and Otsu&#x27;s method to separate foreground objects from image backgrounds.
+
+<p class="project-technologies">Python · OpenCV · Computer Vision · Jupyter Notebook</p>
+
+<div class="project-actions">
+
+[View repository](https://github.com/mateocordobatoro/machine-learning-ii){.project-link} [Read project blog](blog/posts/object-extraction-thresholding/){.project-link}
+
+</div>
+
+:::
