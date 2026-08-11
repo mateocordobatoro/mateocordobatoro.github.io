@@ -11,6 +11,10 @@ Data & Analytics professional and Applied AI Solutions Development student with 
 
 [LinkedIn](https://www.linkedin.com/in/mateocordobatoro/){.profile-link}
 
+[Download Resume (PDF)](files/Mateo_Cordoba_Resume.pdf){.profile-link}
+
+[Download Transcript (PDF)](files/Mateo_Cordoba_Transcript.pdf){.profile-link}
+
 ## Experience
 
 **Data Scientist — SierraCol Energy** · Apr 2025–Present · Bogota, Colombia
@@ -39,7 +43,7 @@ Maintained R Shiny econometric applications and developed macroeconomic time-ser
 
 ## Education
 
-**Applied AI Solutions Development, Ontario College Graduate Certificate** — George Brown College, Toronto, ON · Expected Apr 2027
+**Applied AI Solutions Development, Ontario College Graduate Certificate** — George Brown College, Toronto, ON · Expected Apr 2027 · GPA: 4.0
 
 **Postgraduate Program in Statistics** — Universidad Nacional de Colombia, Bogota, Colombia · Mar 2025
 
