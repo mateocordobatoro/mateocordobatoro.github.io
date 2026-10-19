@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mateocordobatoro.github.io/index.html</loc>
-    <lastmod>2026-10-19T04:41:23.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mateocordobatoro.github.io/blog/posts/object-extraction-thresholding/index.html</loc>
-    <lastmod>2026-10-19T04:41:27.232Z</lastmod>
-  </url>
-  <url>
     <loc>https://mateocordobatoro.github.io/blog/index.html</loc>
-    <lastmod>2026-10-19T04:41:23.863Z</lastmod>
+    <lastmod>2026-10-19T13:16:54.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mateocordobatoro.github.io/index.html</loc>
+    <lastmod>2026-10-19T13:16:54.488Z</lastmod>
   </url>
   <url>
     <loc>https://mateocordobatoro.github.io/projects.html</loc>
-    <lastmod>2026-10-19T04:41:23.864Z</lastmod>
+    <lastmod>2026-10-19T13:16:54.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mateocordobatoro.github.io/blog/posts/object-extraction-thresholding/index.html</loc>
+    <lastmod>2026-10-19T13:16:58.199Z</lastmod>
   </url>
 </urlset>
