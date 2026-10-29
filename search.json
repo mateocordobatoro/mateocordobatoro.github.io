@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A computer vision project!!! that uses image thresholding and Otsu's method to separate foreground objects from image backgrounds.\n\nPython · OpenCV · Computer Vision · Jupyter Notebook\n\n\nView repository Read project blog"
+  },
+  {
+    "objectID": "projects.html#object-extraction-with-image-thresholding",
+    "href": "projects.html#object-extraction-with-image-thresholding",
+    "title": "Projects",
+    "section": "",
+    "text": "A computer vision project!!! that uses image thresholding and Otsu's method to separate foreground objects from image backgrounds.\n\nPython · OpenCV · Computer Vision · Jupyter Notebook\n\n\nView repository Read project blog"
+  },
+  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Project Blog",
@@ -33,20 +47,6 @@
     "title": "About Me",
     "section": "",
     "text": "Data Engineering & Databases: Python, SQL, R, ETL/ELT, Airflow, dbt, Spark, DuckDB, PostgreSQL, Snowflake, data modeling, data validation, cleansing, and error handling.\nBI & Analytics: Power BI, R Shiny, Plotly, scikit-learn, forecasting, time-series analysis, feature engineering, model validation, backtesting, KPI design, and data storytelling.\nCloud & Software Delivery: AWS S3/EC2, Azure, REST APIs, Git/GitHub, GitHub Actions, CI/CD, Docker, Terraform, Ansible, and agile collaboration."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A computer vision project!!! that uses image thresholding and Otsu's method to separate foreground objects from image backgrounds.\n\nPython · OpenCV · Computer Vision · Jupyter Notebook\n\n\nView repository Read project blog"
-  },
-  {
-    "objectID": "projects.html#object-extraction-with-image-thresholding",
-    "href": "projects.html#object-extraction-with-image-thresholding",
-    "title": "Projects",
-    "section": "",
-    "text": "A computer vision project!!! that uses image thresholding and Otsu's method to separate foreground objects from image backgrounds.\n\nPython · OpenCV · Computer Vision · Jupyter Notebook\n\n\nView repository Read project blog"
   },
   {
     "objectID": "blog/posts/object-extraction-thresholding/index.html",
