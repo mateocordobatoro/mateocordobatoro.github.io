@@ -28,6 +28,13 @@
     "text": "Data Engineering & Databases: Python, SQL, R, ETL/ELT, Airflow, dbt, Spark, DuckDB, PostgreSQL, Snowflake, data modeling, data validation, cleansing, and error handling.\nBI & Analytics: Power BI, R Shiny, Plotly, scikit-learn, forecasting, time-series analysis, feature engineering, model validation, backtesting, KPI design, and data storytelling.\nCloud & Software Delivery: AWS S3/EC2, Azure, REST APIs, Git/GitHub, GitHub Actions, CI/CD, Docker, Terraform, Ansible, and agile collaboration."
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Project Blog",
+    "section": "",
+    "text": "Here I document the problems, decisions, architecture and results behind each project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObject Extraction with Image Thresholding\n\n\n\nComputer Vision\n\nPython\n\nOpenCV\n\n\n\n\nUsing binary thresholding and Otsu’s method to extract objects from image backgrounds.\n\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "blog/posts/object-extraction-thresholding/index.html",
     "href": "blog/posts/object-extraction-thresholding/index.html",
     "title": "Object Extraction with Image Thresholding",
@@ -96,12 +103,5 @@
     "title": "Projects",
     "section": "",
     "text": "A computer vision project!!! that uses image thresholding and Otsu's method to separate foreground objects from image backgrounds.\n\nPython · OpenCV · Computer Vision · Jupyter Notebook\n\n\nView repository Read project blog"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Project Blog",
-    "section": "",
-    "text": "Here I document the problems, decisions, architecture and results behind each project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObject Extraction with Image Thresholding\n\n\n\nComputer Vision\n\nPython\n\nOpenCV\n\n\n\n\nUsing binary thresholding and Otsu’s method to extract objects from image backgrounds.\n\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\nNo matching items"
   }
 ]
